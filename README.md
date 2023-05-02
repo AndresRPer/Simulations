@@ -1,2 +1,2 @@
 # Simulations
-A few easy simulation that show different stochastic processes
+A few easy simulations that show different stochastic processes

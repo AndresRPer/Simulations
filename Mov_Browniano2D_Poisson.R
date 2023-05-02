@@ -10,4 +10,4 @@ for(i in n)
     xdis[i] <- xdis[i] * at[i]
     ydis[i] <- ydis[i] * at[i]
 plot(xdis,ydis,type="l",main="Moviento Browniano Bidimensional con proceso de llegada de Poisson",
-     xlab="Desplazamiento en X",ylab="Desplazamiento en Y", col="gold")
+     xlab="Desplazamiento en X",ylab="Desplazamiento en Y", col="midnightblu")
